@@ -1,0 +1,167 @@
+[
+  {
+    "file": "explorer.html",
+    "initial_state": {
+      "k": 1.3,
+      "view": "cap",
+      "sqrt": {
+        "a": 2.618142542215133,
+        "r": 0.24734529870663974,
+        "tv": 0.03281076541489798,
+        "center_accept": 0.18020366547984287
+      },
+      "flat": {
+        "a": 1.6383511401561428,
+        "r": 0.44291996643276077,
+        "tv": 0.11634214343694803,
+        "center_accept": 0.26129709363638953
+      },
+      "sourceN": 1000000
+    },
+    "math_checks": {
+      "sourceTail": 6.334248366623834e-05,
+      "sqrtTail": 0.00025608929701698016,
+      "flatTail": 0.00014301112721648845,
+      "sqrtCenter": 0.18020366547984287,
+      "sqrtMass": 0.9999999999999996,
+      "flatMass": 0.9999999999999967,
+      "sourceCountFromSqrt": 6.334248366623834e-05,
+      "weightAt5": 5894.958773276459
+    },
+    "height_at_740px": 613.109375,
+    "browser_errors": [],
+    "external_requests": []
+  },
+  {
+    "file": "retention.html",
+    "initial_state": {
+      "k": 1.4,
+      "view": "budget",
+      "sqrt": {
+        "a": 4.051535529045372,
+        "r": 0.023303397158667534,
+        "tv": 0.005214486274368535,
+        "center_accept": 0.016510891320880766
+      },
+      "flat": {
+        "a": 1.88484402736126,
+        "r": 0.31399917187469095,
+        "tv": 0.12979781974642685,
+        "center_accept": 0.16926013219219113
+      },
+      "sourceN": 1000000
+    },
+    "math_checks": {
+      "sourceTail": 6.334248366623834e-05,
+      "sqrtTail": 0.00025608929701698016,
+      "flatTail": 0.00014301112721648845,
+      "sqrtCenter": 0.18020366547984287,
+      "sqrtMass": 0.9999999999999996,
+      "flatMass": 0.9999999999999967,
+      "sourceCountFromSqrt": 6.334248366623834e-05,
+      "weightAt5": 5894.958773276459
+    },
+    "height_at_740px": 613.109375,
+    "browser_errors": [],
+    "external_requests": []
+  },
+  {
+    "file": "matched.html",
+    "initial_state": {
+      "k": 1.4,
+      "view": "lost",
+      "sqrt": {
+        "a": 4.051535529045372,
+        "r": 0.023303397158667534,
+        "tv": 0.005214486274368535,
+        "center_accept": 0.016510891320880766
+      },
+      "flat": {
+        "a": 1.88484402736126,
+        "r": 0.31399917187469095,
+        "tv": 0.12979781974642685,
+        "center_accept": 0.16926013219219113
+      },
+      "sourceN": 1000000
+    },
+    "math_checks": {
+      "sourceTail": 6.334248366623834e-05,
+      "sqrtTail": 0.00025608929701698016,
+      "flatTail": 0.00014301112721648845,
+      "sqrtCenter": 0.18020366547984287,
+      "sqrtMass": 0.9999999999999996,
+      "flatMass": 0.9999999999999967,
+      "sourceCountFromSqrt": 6.334248366623834e-05,
+      "weightAt5": 5894.958773276459
+    },
+    "height_at_740px": 613.109375,
+    "browser_errors": [],
+    "external_requests": []
+  },
+  {
+    "file": "shape.html",
+    "initial_state": {
+      "k": 1.3,
+      "view": "shape",
+      "sqrt": {
+        "a": 2.618142542215133,
+        "r": 0.24734529870663974,
+        "tv": 0.03281076541489798,
+        "center_accept": 0.18020366547984287
+      },
+      "flat": {
+        "a": 1.6383511401561428,
+        "r": 0.44291996643276077,
+        "tv": 0.11634214343694803,
+        "center_accept": 0.26129709363638953
+      },
+      "sourceN": 1000000
+    },
+    "math_checks": {
+      "sourceTail": 6.334248366623834e-05,
+      "sqrtTail": 0.00025608929701698016,
+      "flatTail": 0.00014301112721648845,
+      "sqrtCenter": 0.18020366547984287,
+      "sqrtMass": 0.9999999999999996,
+      "flatMass": 0.9999999999999967,
+      "sourceCountFromSqrt": 6.334248366623834e-05,
+      "weightAt5": 5894.958773276459
+    },
+    "height_at_740px": 613.109375,
+    "browser_errors": [],
+    "external_requests": []
+  },
+  {
+    "file": "tails.html",
+    "initial_state": {
+      "k": 1.3,
+      "view": "tails",
+      "sqrt": {
+        "a": 2.618142542215133,
+        "r": 0.24734529870663974,
+        "tv": 0.03281076541489798,
+        "center_accept": 0.18020366547984287
+      },
+      "flat": {
+        "a": 1.6383511401561428,
+        "r": 0.44291996643276077,
+        "tv": 0.11634214343694803,
+        "center_accept": 0.26129709363638953
+      },
+      "sourceN": 1000000
+    },
+    "math_checks": {
+      "sourceTail": 6.334248366623834e-05,
+      "sqrtTail": 0.00025608929701698016,
+      "flatTail": 0.00014301112721648845,
+      "sqrtCenter": 0.18020366547984287,
+      "sqrtMass": 0.9999999999999996,
+      "flatMass": 0.9999999999999967,
+      "sourceCountFromSqrt": 6.334248366623834e-05,
+      "weightAt5": 5894.958773276459
+    },
+    "height_at_740px": 613.109375,
+    "browser_errors": [],
+    "external_requests": []
+  }
+]

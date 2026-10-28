@@ -1,0 +1,142 @@
+[
+  {
+    "k": 1,
+    "method": "sqrt",
+    "retained": 1.0,
+    "retained_by_quadrature": 1.000000000000022,
+    "std_by_quadrature": 0.9999999999999846,
+    "tv": 0.0,
+    "tv_by_quadrature": 0.0
+  },
+  {
+    "k": 1,
+    "method": "flat",
+    "retained": 1.0,
+    "retained_by_quadrature": 1.000000000000022,
+    "std_by_quadrature": 0.9999999999999846,
+    "tv": 0.0,
+    "tv_by_quadrature": 0.0
+  },
+  {
+    "k": 1.1,
+    "method": "sqrt",
+    "retained": 0.7652540520185678,
+    "retained_by_quadrature": 0.7652540520185784,
+    "std_by_quadrature": 1.1000000000000019,
+    "tv": 0.04381815317941129,
+    "tv_by_quadrature": 0.043818153179411304
+  },
+  {
+    "k": 1.1,
+    "method": "flat",
+    "retained": 0.7932752388535333,
+    "retained_by_quadrature": 0.7932752388535497,
+    "std_by_quadrature": 1.0999999999999948,
+    "tv": 0.06725418160508047,
+    "tv_by_quadrature": 0.06725418160508034
+  },
+  {
+    "k": 1.25,
+    "method": "sqrt",
+    "retained": 0.37459989588644566,
+    "retained_by_quadrature": 0.374599895886448,
+    "std_by_quadrature": 1.2500000000000069,
+    "tv": 0.0412854691978897,
+    "tv_by_quadrature": 0.04128546919788964
+  },
+  {
+    "k": 1.25,
+    "method": "flat",
+    "retained": 0.5193223820183516,
+    "retained_by_quadrature": 0.5193223820183606,
+    "std_by_quadrature": 1.2500000000000024,
+    "tv": 0.10772073155757374,
+    "tv_by_quadrature": 0.10772073155757358
+  },
+  {
+    "k": 1.3,
+    "method": "sqrt",
+    "retained": 0.24734529870663974,
+    "retained_by_quadrature": 0.24734529870664054,
+    "std_by_quadrature": 1.300000000000006,
+    "tv": 0.03281076541489798,
+    "tv_by_quadrature": 0.032810765414897865
+  },
+  {
+    "k": 1.3,
+    "method": "flat",
+    "retained": 0.44291996643276077,
+    "retained_by_quadrature": 0.4429199664327678,
+    "std_by_quadrature": 1.3000000000000043,
+    "tv": 0.11634214343694803,
+    "tv_by_quadrature": 0.11634214343694793
+  },
+  {
+    "k": 1.4,
+    "method": "sqrt",
+    "retained": 0.023303397158667534,
+    "retained_by_quadrature": 0.02330339715866754,
+    "std_by_quadrature": 1.3999999999999995,
+    "tv": 0.005214486274368535,
+    "tv_by_quadrature": 0.005214486274368489
+  },
+  {
+    "k": 1.4,
+    "method": "flat",
+    "retained": 0.31399917187469095,
+    "retained_by_quadrature": 0.31399917187469534,
+    "std_by_quadrature": 1.4000000000000068,
+    "tv": 0.12979781974642685,
+    "tv_by_quadrature": 0.12979781974642673
+  },
+  {
+    "k": 1.414,
+    "method": "sqrt",
+    "retained": 0.00025049402379959156,
+    "retained_by_quadrature": 0.000250494023799592,
+    "std_by_quadrature": 1.4139999999999966,
+    "tv": 7.820373772250942e-05,
+    "tv_by_quadrature": 7.820373772260716e-05
+  },
+  {
+    "k": 1.414,
+    "method": "flat",
+    "retained": 0.2984290017798762,
+    "retained_by_quadrature": 0.29842900177988074,
+    "std_by_quadrature": 1.4140000000000073,
+    "tv": 0.13137652531837687,
+    "tv_by_quadrature": 0.13137652531837668
+  },
+  {
+    "k": 1.414203562373095,
+    "method": "sqrt",
+    "retained": 1.0088899320328475e-05,
+    "retained_by_quadrature": 1.008889932032852e-05,
+    "std_by_quadrature": 1.41420356237309,
+    "tv": 3.602341547152502e-06,
+    "tv_by_quadrature": 3.602341547199516e-06
+  },
+  {
+    "k": 1.414203562373095,
+    "method": "flat",
+    "retained": 0.2982069526280858,
+    "retained_by_quadrature": 0.29820695262809027,
+    "std_by_quadrature": 1.4142035623731022,
+    "tv": 0.13139901894209707,
+    "tv_by_quadrature": 0.13139901894209688
+  },
+  {
+    "k": 2,
+    "method": "sqrt",
+    "status": "infeasible"
+  },
+  {
+    "k": 2,
+    "method": "flat",
+    "retained": 0.019965936135145298,
+    "retained_by_quadrature": 0.019965936135145485,
+    "std_by_quadrature": 2.000000000000014,
+    "tv": 0.16668358818818013,
+    "tv_by_quadrature": 0.16668358818817916
+  }
+]
